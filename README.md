@@ -8,7 +8,7 @@ Welcome to the **CyberSecurity Resources** repository! 🎉 This is a comprehens
 
 Here's what you'll find in this repository:
 
-1. **[Getting Started](./Getting-Started)** 🌟
+1. **[Getting Started](./CyberSecurity-Resources/Getting-Started/README.md)** 🌟
    - Basics of cybersecurity.
    - Career paths and roadmaps.
    - Essential tools to get started.
