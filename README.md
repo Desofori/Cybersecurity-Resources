@@ -13,36 +13,36 @@ Here's what you'll find in this repository:
    - Career paths and roadmaps.
    - Essential tools to get started.
 
-2. **[Fundamentals](./Fundamentals)** 📚
-   - **[Networking](./Fundamentals/Networking)**: Basics, packet analysis, and tools.
-   - **[Operating Systems](./Fundamentals/Operating-Systems)**: Linux, Windows, and Bash scripting.
-   - **[Programming](./Fundamentals/Programming)**: Python, Bash, C, and secure coding practices.
-   - **[Security Concepts](./Fundamentals/Security-Concepts)**: CIA triad, encryption basics, and more.
+2. **[Fundamentals](Cybersecurity-Resources/Fundamentals)** 📚
+   - **[Networking](Cybersecurity-Resources/Fundamentals/Networking)**: Basics, packet analysis, and tools.
+   - **[Operating Systems](Cybersecurity-Resources/Fundamentals/Operating-Systems)**: Linux, Windows, and Bash scripting.
+   - **[Programming](Cybersecurity-Resources/Fundamentals/Programming)**: Python, Bash, C, and secure coding practices.
+   - **[Security Concepts](Cybersecurity-Resources/Fundamentals/Security-Concepts)**: CIA triad, encryption basics, and more.
 
-3. **[Domains](./Domains)** 🔍
-   - **[Pentesting](./Domains/Pentesting)**: Web and network penetration testing.
-   - **[Forensics](./Domains/Forensics)**: Digital forensics tools and techniques.
-   - **[Incident Response](./Domains/Incident-Response)**: Steps to respond to security incidents.
-   - **[OSINT](./Domains/OSINT)**: Open Source Intelligence techniques.
-   - **[Governance, Risk & Compliance](./Domains/Governance-Risk-Compliance)**: Policies and frameworks.
+3. **[Domains](Cybersecurity-Resources/Domains)** 🔍
+   - **[Pentesting](Cybersecurity-Resources/Domains/Pentesting)**: Web and network penetration testing.
+   - **[Forensics](Cybersecurity-Resources/Domains/Forensics)**: Digital forensics tools and techniques.
+   - **[Incident Response](Cybersecurity-Resources/Domains/Incident-Response)**: Steps to respond to security incidents.
+   - **[OSINT](Cybersecurity-Resources/Domains/OSINT)**: Open Source Intelligence techniques.
+   - **[Governance, Risk & Compliance](Cybersecurity-Resources/Domains/Governance-Risk-Compliance)**: Policies and frameworks.
 
-4. **[Practice Resources](./Practice-Resources)** 🛠️
-   - **[CTF Challenges](./Practice-Resources/CTF-Challenges)**: Platforms for hands-on challenges.
-   - **[Labs](./Practice-Resources/Labs)**: Practical labs and virtual environments.
-   - **[Simulated Scenarios](./Practice-Resources/Simulated-Scenarios)**: Real-world exercises.
+4. **[Practice Resources](Cybersecurity-Resources/Practice-Resources)** 🛠️
+   - **[CTF Challenges](Cybersecurity-Resources/Practice-Resources/CTF-Challenges)**: Platforms for hands-on challenges.
+   - **[Labs](Cybersecurity-Resources/Practice-Resources/Labs)**: Practical labs and virtual environments.
+   - **[Simulated Scenarios](Cybersecurity-Resources/Practice-Resources/Simulated-Scenarios)**: Real-world exercises.
 
-5. **[Certifications](./Certifications)** 🎓
+5. **[Certifications](Cybersecurity-Resources/Certifications)** 🎓
    - Study guides for certifications like Security+, CEH, OSCP, and CISSP.
 
-6. **[Books and Courses](./Books-and-Courses)** 📖
-   - **[Free Books](./Books-and-Courses/Free-Books)** and **[Paid Books](./Books-and-Courses/Paid-Books)**.
-   - **[Free Courses](./Books-and-Courses/Free-Courses)** and **[Paid Courses](./Books-and-Courses/Paid-Courses)**.
+6. **[Books and Courses](Cybersecurity-Resources/Books-and-Courses)** 📖
+   - **[Free Books](Cybersecurity-Resources/Books-and-Courses/Free-Books)** and **[Paid Books](Cybersecurity-Resources/Books-and-Courses/Paid-Books)**.
+   - **[Free Courses](Cybersecurity-Resources/Books-and-Courses/Free-Courses)** and **[Paid Courses](Cybersecurity-Resources/Books-and-Courses/Paid-Courses)**.
 
-7. **[News and Trends](./News-and-Trends)** 📰
-   - **[Blogs](./News-and-Trends/Blogs)**: Top cybersecurity blogs.
-   - **[Newsletters](./News-and-Trends/Newsletters)**: Stay updated weekly/monthly.
-   - **[Podcasts](./News-and-Trends/Podcasts)**: Learn on the go.
-   - **[YouTube Channels](./News-and-Trends/YouTube-Channels)**: Tutorials and walkthroughs.
+7. **[News and Trends](Cybersecurity-Resources/News-and-Trends)** 📰
+   - **[Blogs](Cybersecurity-Resources/News-and-Trends/Blogs)**: Top cybersecurity blogs.
+   - **[Newsletters](Cybersecurity-Resources/News-and-Trends/Newsletters)**: Stay updated weekly/monthly.
+   - **[Podcasts](Cybersecurity-Resources/News-and-Trends/Podcasts)**: Learn on the go.
+   - **[YouTube Channels](Cybersecurity-Resources/News-and-Trends/YouTube-Channels)**: Tutorials and walkthroughs.
 
 ---
 
