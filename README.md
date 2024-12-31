@@ -44,7 +44,7 @@ Here's what you'll find in this repository:
 
 6. **[Books and Courses](Cybersecurity-Resources/Books-and-Courses)** 📖
    - **[Free Books](Cybersecurity-Resources/Books-and-Courses/Free-Books)** and **[Paid Books](Cybersecurity-Resources/Books-and-Courses/Paid-Books)**.
-   - **[Movies & Documentaries](Cybersecurity-Resources/Books-and-Courses/Movies-Documentaries)** and **[Tools](Cybersecurity-Resources/Books-and-Courses/Tools)**.
+   - **[Movies-Doc](Cybersecurity-Resources/Books-and-Courses/Movies-Doc)** and **[Tools](Cybersecurity-Resources/Books-and-Courses/Tools)**.
 
 7. **[News and Trends](Cybersecurity-Resources/News-and-Trends)** 📰
    - **[Blogs](Cybersecurity-Resources/News-and-Trends/Blogs)**: Top cybersecurity blogs.
