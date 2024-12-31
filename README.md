@@ -44,7 +44,7 @@ Here's what you'll find in this repository:
 
 6. **[Books and Courses](Cybersecurity-Resources/Books-and-Courses)** 📖
    - **[Free Books](Cybersecurity-Resources/Books-and-Courses/Free-Books)** and **[Paid Books](Cybersecurity-Resources/Books-and-Courses/Paid-Books)**.
-   - **[Free Courses](Cybersecurity-Resources/Books-and-Courses/Free-Courses)** and **[Paid Courses](Cybersecurity-Resources/Books-and-Courses/Paid-Courses)**.
+   - **[Movies & Documentaries](Cybersecurity-Resources/Books-and-Courses/Movies-Documentaries)** and **[Tools](Cybersecurity-Resources/Books-and-Courses/Tools)**.
 
 7. **[News and Trends](Cybersecurity-Resources/News-and-Trends)** 📰
    - **[Blogs](Cybersecurity-Resources/News-and-Trends/Blogs)**: Top cybersecurity blogs.
@@ -86,7 +86,8 @@ Have questions, feedback, or want to collaborate? Reach out:
 
 Email: desmondscutt84@gmail.com
 GitHub Issues: Create an Issue
-📜 License
+
+**📜 License**
 This repository is licensed under the MIT License.
 
 
